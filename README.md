@@ -43,12 +43,7 @@ We will help you with product implementation so that you can fully focus on mark
 
 ## Pricing
 
-|               | Without Source Code | Complete Source      | Special Offer        |
-| ------------- | ------------------- | -------------------- | -------------------- |
-| Custom design | Only logo & colors  | Only logo and Colors | Complete UI Overhaul |
-| Source Code   | No                  | Yes                  | Yes                  |
-| Hosting By Us | Yes                 | No                   | No                   |
-| Pricing       | $550/y              | $700                 | $1400                |
+Price is **$700** Fixed for Source Code and Deployment on your Server.
 
 ![NotCoin Discount Offer](/images/discount.jpg "NotCoin Discount Offer")
 
