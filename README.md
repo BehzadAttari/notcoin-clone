@@ -43,7 +43,8 @@ We will help you with product implementation so that you can fully focus on mark
 
 ## Pricing
 
-Price is **$700** Fixed for Source Code and Deployment on your Server.
+Price is **$500** Fixed for Source Code and Deployment on your Server.
+**$350** for our first 5 customers
 
 ![NotCoin Discount Offer](/images/discount.jpg "NotCoin Discount Offer")
 
